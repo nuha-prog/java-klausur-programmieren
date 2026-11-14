@@ -1,5 +1,3 @@
-# java-klausur-programmieren
-Lösungen zur Java-Klausur: Programmieren mit Klassen und Objekten, Java-Klassen, Methoden und Vererbung.
 # Java-Klausur: Programmieren 
 
 Lösungen zur Klausur „Programmieren 1 (Java)“ mit sechs Aufgaben zu Datentypen, Kontrollstrukturen, Arrays, Klassen, Vererbung und einer Denkaufgabe.
